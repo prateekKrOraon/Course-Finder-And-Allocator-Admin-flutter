@@ -1,4 +1,4 @@
-# course_finder_admin
+# Course Finder And Allocator - Admin
 
 Application for admin
 
